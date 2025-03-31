@@ -111,9 +111,14 @@ class CopyFiles(AppConfig):
 
                 attr = x.split("/")[0]
 
-                for key, _ in folders.items():
+                for key, value in folders.items():
                     directory_name = None
-                    if attr == getattr(self.installation, key, None) or attr in self.valid_folders:
+
+                    if attr == getattr(self.installation, key, None):
+                        directory_name = value
+                        break
+                    
+                    if attr in self.valid_folders:
                         directory_name = attr
                         break
 
