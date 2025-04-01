@@ -38,5 +38,16 @@
             "owner": "allplan-mkovac",
             "repo": "Export-DWG"
         }
+    },
+    {
+        "uuid": "b8b5051d-bade-4ea6-961b-f6d9129ba6cf",
+        "name": "PythonParts SDK",
+        "developer": "allplan-gmbh",
+        "description": "SDK for developing PythonParts",
+        "github": {
+            "owner": "NemetschekAllplan",
+            "repo": "pythonparts-sdk"
+        },
+        "compatibility": ">=2.0.0"
     }
 ]
