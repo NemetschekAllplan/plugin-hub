@@ -111,9 +111,14 @@ class CopyFiles(AppConfig):
 
                 attr = x.split("/")[0]
 
-                for key, _ in folders.items():
+                for key, value in folders.items():
                     directory_name = None
-                    if attr == getattr(self.installation, key, None) or attr in self.valid_folders:
+
+                    if attr == getattr(self.installation, key, None):
+                        directory_name = value
+                        break
+                    
+                    if attr in self.valid_folders:
                         directory_name = attr
                         break
 
@@ -124,7 +129,7 @@ class CopyFiles(AppConfig):
 
 
                 directory_path = self._make_directory(library)
-                info.filename  = "/".join(info.filename.split("/")[1:])
+                info.filename  = "\\".join(info.filename.split("/")[1:])
 
 
                 self.tracked_files.append(self.split_by_target_location(os.path.join(directory_path, info.filename)))
