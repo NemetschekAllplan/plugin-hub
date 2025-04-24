@@ -49,5 +49,15 @@
             "repo": "pythonparts-sdk"
         },
         "compatibility": ">=2.0.0"
+    },
+    {
+        "uuid": "da9439a2-b8f2-4b0a-a27c-8ae8aba6a506",
+        "name": "Layer handling",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart for managing layer definitions with an Excel spreadsheet",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "layer-handling-public"
+        }
     }
 ]
