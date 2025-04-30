@@ -59,5 +59,14 @@
             "owner": "AnkeNiedermaier",
             "repo": "layer-handling-public"
         }
-    }
+    },
+    {
+        "uuid": "b2bdee14-a109-4be4-bf7e-83dfdaf9354f",
+        "name": "ExcelReport",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart to export parameters and quantities of objects directly to Excel",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "excel-report-public"
+        }   
 ]
