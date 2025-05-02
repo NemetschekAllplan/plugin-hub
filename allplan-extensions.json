@@ -7,6 +7,13 @@
         "github": {
             "owner": "bmarciniec",
             "repo": "fixture-placement"
+        },
+        "support": {
+            "email": "pythonparts@allplan.com",
+            "languages": [
+                "eng",
+                "deu"
+            ]
         }
     },
     {
