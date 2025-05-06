@@ -76,5 +76,25 @@
             "owner": "AnkeNiedermaier",
             "repo": "excel-report-public"
         }
-    }
+    },
+    {
+        "uuid": "2e95af99-9c54-46c1-a424-a9a4b03ccb4e",
+        "name": "AttribSetHandling",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart for modifiing or defining AttribSetTemplates directly in Excel",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "attrib-set-handling-public"
+        }
+    },
+    {
+        "uuid": "bc2316d8-bf00-4328-b826-af777c4cb0b0",
+        "name": "AttributeWorkflow",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart to execute the workflow of attribute management based on an Excel scema",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "attribute-workflow-public"
+        }
+    },
 ]
