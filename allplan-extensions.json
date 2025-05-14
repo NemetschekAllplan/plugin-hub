@@ -7,6 +7,13 @@
         "github": {
             "owner": "bmarciniec",
             "repo": "fixture-placement"
+        },
+        "support": {
+            "email": "pythonparts@allplan.com",
+            "languages": [
+                "eng",
+                "deu"
+            ]
         }
     },
     {
@@ -37,6 +44,57 @@
         "github": {
             "owner": "allplan-mkovac",
             "repo": "Export-DWG"
+        }
+    },
+    {
+        "uuid": "b8b5051d-bade-4ea6-961b-f6d9129ba6cf",
+        "name": "PythonParts SDK",
+        "developer": "allplan-gmbh",
+        "description": "SDK for developing PythonParts",
+        "github": {
+            "owner": "NemetschekAllplan",
+            "repo": "pythonparts-sdk"
+        },
+        "compatibility": ">=2.0.0"
+    },
+    {
+        "uuid": "da9439a2-b8f2-4b0a-a27c-8ae8aba6a506",
+        "name": "Layer Handling",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart for managing layer definitions with an Excel spreadsheet",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "layer-handling-public"
+        }
+    },
+    {
+        "uuid": "b2bdee14-a109-4be4-bf7e-83dfdaf9354f",
+        "name": "Excel Report",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart to export parameters and quantities of objects directly to Excel",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "excel-report-public"
+        }
+    },
+    {
+        "uuid": "2e95af99-9c54-46c1-a424-a9a4b03ccb4e",
+        "name": "Attribute Set Handling",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart for modifiing or defining Attribute Set Templates directly in Excel",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "attrib-set-handling-public"
+        }
+    },
+    {
+        "uuid": "bc2316d8-bf00-4328-b826-af777c4cb0b0",
+        "name": "Attribute Workflow",
+        "developer": "allplan-gmbh",
+        "description": "PythonPart to execute the workflow of attribute management based on an Excel scema",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "attribute-workflow-public"
         }
     }
 ]
