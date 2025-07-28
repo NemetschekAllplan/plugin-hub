@@ -97,5 +97,15 @@
             "owner": "AnkeNiedermaier",
             "repo": "attribute-workflow-public"
         }
+    },
+    {
+        "uuid": "06e0fc0c-f142-46f5-9ecd-faca829f97e6",
+        "name": "Design and Modeling Tools",
+        "developer": "allplan-gmbh",
+        "description": "A set of PythonParts to improve design and modeling workflows",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "design-modeling-tools-public"
+        }
     }
 ]
