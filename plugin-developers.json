@@ -38,14 +38,14 @@
     },
     {
         "id": "allplan-france",
-        "name": "ALLPLAN FRANCE", 
+        "name": "ALLPLAN France S.a.r.l.", 
         "address": {
             "street": "Tour HYFIVE, 1 Avenue du Général de Gaulle",
             "city": "Puteaux",
             "zip": "92800",
             "country": "France"
         },
-        "homepage": "https://www.allplan.com/fr/",
+        "homepage": "https://www.allplan.com/fr",
         "support": {
             "email": "support.fr@allplan.com",
             "languages": [
