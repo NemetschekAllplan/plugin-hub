@@ -107,5 +107,15 @@
             "owner": "AnkeNiedermaier",
             "repo": "design-modeling-tools-public"
         }
+    },
+    {
+        "uuid": "5f3c2d8a-29d1-4a54-8d9e-7e4b3c2a1f6b", 
+        "name": "Custom VS Nodes From Allplan France", 
+        "developer": "allplan-france", 
+        "description": "Collection of Custom VS Nodes from Allplan France", 
+        "github": { 
+            "owner": "cmaignan-source",
+            "repo": "vsnodes"
+        }
     }
 ]
