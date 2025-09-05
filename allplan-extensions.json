@@ -117,5 +117,15 @@
             "owner": "cmaignan-source",
             "repo": "vsnodes"
         }
+    },
+    {
+        "uuid": "86ce26b5-5603-462b-96e7-fe822aee893a",
+        "name": "Rearange rebar by shape",
+        "developer": "allplan-cz",
+        "description": "Tool for rearange bar acording to thier shapes, diameter and lengths.",
+        "github": {
+            "owner": "allplan-mkovac",
+            "repo": "Rearange-bars-by-shape"
+        }
     }
 ]
