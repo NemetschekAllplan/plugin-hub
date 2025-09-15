@@ -127,5 +127,15 @@
             "owner": "allplan-mkovac",
             "repo": "Rearange-bars-by-shape"
         }
-    }    
+    },
+    {
+        "uuid": "1381dee0-1c38-46e6-848f-4d41cb98b60a",
+        "name": "Multiple sections",
+        "developer": "allplan-cz",
+        "description": "Python for creating multiple sections in one step.",
+        "github": {
+            "owner": "allplan-mkovac",
+            "repo": "Multiple-sections"
+        }
+    }
 ]
