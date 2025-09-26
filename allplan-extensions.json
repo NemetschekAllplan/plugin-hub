@@ -31,7 +31,7 @@
         "uuid": "fc33264f-5895-431e-a160-b0ff211f6fdf",
         "name": "Transfer formwork to Rebar Attributes",
         "developer": "allplan-gmbh",
-        "description": "This plugin transfers attributes from 3D volumes upon rebar using a containment algoritm",
+        "description": "This plugin transfers attributes from 3D volumes upon rebar using a containment algorithm",
         "github": {
             "owner": "bertvo-allplan",
             "repo": "AllplanFormworkAttributeTransfer"
@@ -82,7 +82,7 @@
         "uuid": "2e95af99-9c54-46c1-a424-a9a4b03ccb4e",
         "name": "Attribute Set Handling",
         "developer": "allplan-gmbh",
-        "description": "PythonPart for modifiing or defining Attribute Set Templates directly in Excel",
+        "description": "PythonPart for modifying or defining Attribute Set Templates directly in Excel",
         "github": {
             "owner": "AnkeNiedermaier",
             "repo": "attrib-set-handling-public"
@@ -92,7 +92,7 @@
         "uuid": "bc2316d8-bf00-4328-b826-af777c4cb0b0",
         "name": "Attribute Workflow",
         "developer": "allplan-gmbh",
-        "description": "PythonPart to execute the workflow of attribute management based on an Excel scema",
+        "description": "PythonPart to execute the workflow of attribute management based on an Excel schema",
         "github": {
             "owner": "AnkeNiedermaier",
             "repo": "attribute-workflow-public"
@@ -120,9 +120,9 @@
     },
     {
         "uuid": "86ce26b5-5603-462b-96e7-fe822aee893a",
-        "name": "Rearange rebar by shape",
+        "name": "Rearrange rebar by shape",
         "developer": "allplan-cz",
-        "description": "Tool for rearange bar acording to thier shapes, diameter and lengths.",
+        "description": "Tool for rearranging rebar mark numbers according to their shape, diameter and length.",
         "github": {
             "owner": "allplan-mkovac",
             "repo": "Rearange-bars-by-shape"
