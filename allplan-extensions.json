@@ -137,5 +137,15 @@
             "owner": "allplan-mkovac",
             "repo": "Multiple-sections"
         }
+    },
+    {
+        "uuid": "9c38b206-6a84-4ebf-8a78-84c651921bfd",
+        "name": "CoordinateOrigin",
+        "developer": "allplan-gmbh",
+        "description": "A parametric coordinate cross object to be placed in the drawing file",
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "coordinate-origin-public"
+        }
     }
 ]
