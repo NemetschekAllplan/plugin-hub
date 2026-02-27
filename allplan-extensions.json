@@ -147,5 +147,18 @@
             "owner": "AnkeNiedermaier",
             "repo": "coordinate-origin-public"
         }
+    },
+    {
+        "uuid": "a2fdd11f-1abf-4b5c-b558-f195490330ed",
+        "name": "Noise Barrier Tool",
+        "developer": "allplan-gmbh",
+        "descriptions":{
+            "eng":"Tool for designing noise barrier walls",
+            "deu": "Tool zur Planung von Lärmschutzwänden"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "noise-barrier-public"
+        }
     }
 ]
