@@ -167,7 +167,7 @@
         "developer": "allplan-gmbh",
         "descriptions":{
             "eng":"PythonPart to fulfill the SOM requirements from DB Netze AG",
-            "deu": "PythonPart zur UMsetzung der SOM anforderungen der DB Netze AG"
+            "deu": "PythonPart zur Umsetzung der SOM anforderungen der DB Netze AG"
         },
         "github": {
             "owner": "AnkeNiedermaier",
