@@ -160,5 +160,18 @@
             "owner": "AnkeNiedermaier",
             "repo": "noise-barrier-public"
         }
+    },
+    {
+        "uuid": "eedb1643-8962-4192-93ff-92f542550f9c",
+        "name": "SOM 2_1 Attributes",
+        "developer": "allplan-gmbh",
+        "descriptions":{
+            "eng":"PythonPart to fulfill the SOM requirements from DB Netze AG",
+            "deu": "PythonPart zur Umsetzung der SOM anforderungen der DB Netze AG"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "som-attributes-public"
+        }
     }
 ]
