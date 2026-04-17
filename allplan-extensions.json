@@ -173,5 +173,18 @@
             "owner": "AnkeNiedermaier",
             "repo": "som-attributes-public"
         }
+    },
+    {
+        "uuid": "2a6a886b-8a0a-4821-b908-0d33c583bd5b",
+        "name": "Eco Balance",
+        "developer": "allplan-gmbh",
+        "descriptions":{
+            "eng":"PythonPart for the ecological impact evaluation of objects and models",
+            "deu": "PythonPart zur Ökobilanzierung von Bauteilen und Bauwerksmodellen"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "eco-balance-public"
+        }
     }
 ]
