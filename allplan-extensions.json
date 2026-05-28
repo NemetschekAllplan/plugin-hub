@@ -56,7 +56,7 @@
             "owner": "NemetschekAllplan",
             "repo": "pythonparts-sdk"
         },
-        "compatibility": ">=2.0.0"
+        "compatibility": ">=3.0.0"
     },
     {
         "uuid": "da9439a2-b8f2-4b0a-a27c-8ae8aba6a506",
