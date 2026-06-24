@@ -186,5 +186,15 @@
             "owner": "AnkeNiedermaier",
             "repo": "eco-balance-public"
         }
+    },
+    {
+        "uuid": "a6767ff0-a1e7-4e5e-8c07-45722dae763f",
+        "name": "US Toolbox",
+        "developer": "allplan-usa",
+        "description": "Collection of tools for the US market with a focus on precast and rebar detailing",
+        "github": {
+            "owner": "fholz-allplan",
+            "repo": "us-toolbox"
+        }
     }
 ]

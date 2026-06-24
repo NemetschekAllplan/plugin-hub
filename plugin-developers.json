@@ -53,5 +53,22 @@
                 "fra"
             ]
         }
+    },
+    {
+        "id": "allplan-usa",
+        "name": "ALLPLAN Inc.", 
+        "address": {
+            "street": "8333 Glynoaks Dr",
+            "city": "Lincoln",
+            "zip": "68516",
+            "country": "USA"
+        },
+        "homepage": "https://www.allplan.com/",
+        "support": {
+            "email": "support.us@allplan.com",
+            "languages": [
+                "eng"
+            ]
+        }
     }
 ]
