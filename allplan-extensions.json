@@ -196,5 +196,15 @@
             "owner": "fholz-allplan",
             "repo": "us-toolbox"
         }
+    },
+    {
+        "uuid": "c8f3d9a2-4b7e-4c13-9f21-7e6b2d40a581",
+        "name": "ALLPLAN FRANCE PythonParts Collection",
+        "developer": "allplan-france",
+        "description": "Collection of PythonParts from Allplan France",
+        "github": {
+            "owner": "AllplanFr",
+            "repo": "PythonPartsFr"
+        }
     }
 ]
