@@ -187,4 +187,17 @@
             "repo": "eco-balance-public"
         }
     }
+        {
+        "uuid": "ee2dbee0-2560-4ec8-8090-ac750d6ecc9e",
+        "name": "Dynamic Evaluation",
+        "developer": "allplan-gmbh",
+        "descriptions":{
+            "eng":"PythonPart for the dynamic visualization and evaluate of the current ALLPLAN data in a separate window",
+            "deu": "PythonPart zur dynamischen Anzeige und Auswertung der aktuellen ALLPLAN Daten in einem separaten Programmfenster"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "dynamic-evaluation-public"
+        }
+    }
 ]
