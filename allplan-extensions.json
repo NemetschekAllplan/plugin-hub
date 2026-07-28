@@ -152,8 +152,8 @@
         "uuid": "a2fdd11f-1abf-4b5c-b558-f195490330ed",
         "name": "Noise Barrier Tool",
         "developer": "allplan-gmbh",
-        "descriptions":{
-            "eng":"Tool for designing noise barrier walls",
+        "descriptions": {
+            "eng": "Tool for designing noise barrier walls",
             "deu": "Tool zur Planung von Lärmschutzwänden"
         },
         "github": {
@@ -165,8 +165,8 @@
         "uuid": "eedb1643-8962-4192-93ff-92f542550f9c",
         "name": "SOM 2_1 Attributes",
         "developer": "allplan-gmbh",
-        "descriptions":{
-            "eng":"PythonPart to fulfill the SOM requirements from DB Netze AG",
+        "descriptions": {
+            "eng": "PythonPart to fulfill the SOM requirements from DB Netze AG",
             "deu": "PythonPart zur Umsetzung der SOM anforderungen der DB Netze AG"
         },
         "github": {
@@ -178,8 +178,8 @@
         "uuid": "2a6a886b-8a0a-4821-b908-0d33c583bd5b",
         "name": "Eco Balance",
         "developer": "allplan-gmbh",
-        "descriptions":{
-            "eng":"PythonPart for the ecological impact evaluation of objects and models",
+        "descriptions": {
+            "eng": "PythonPart for the ecological impact evaluation of objects and models",
             "deu": "PythonPart zur Ökobilanzierung von Bauteilen und Bauwerksmodellen"
         },
         "github": {
@@ -205,6 +205,19 @@
         "github": {
             "owner": "AllplanFr",
             "repo": "PythonPartsFr"
+        }
+    },
+    {
+        "uuid": "ee2dbee0-2560-4ec8-8090-ac750d6ecc9e",
+        "name": "Dynamic Evaluation",
+        "developer": "allplan-gmbh",
+        "descriptions": {
+            "eng": "PythonPart for the dynamic visualization and evaluate of the current ALLPLAN data in a separate window",
+            "deu": "PythonPart zur dynamischen Anzeige und Auswertung der aktuellen ALLPLAN Daten in einem separaten Programmfenster"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "dynamic-evaluation-public"
         }
     }
 ]
