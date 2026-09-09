@@ -186,8 +186,8 @@
             "owner": "AnkeNiedermaier",
             "repo": "eco-balance-public"
         }
-    }
-        {
+    },
+    {
         "uuid": "ee2dbee0-2560-4ec8-8090-ac750d6ecc9e",
         "name": "Dynamic Evaluation",
         "developer": "allplan-gmbh",
@@ -199,5 +199,17 @@
             "owner": "AnkeNiedermaier",
             "repo": "dynamic-evaluation-public"
         }
-    }
+    },
+    {
+        "uuid": "f2f6f4ae-c318-46d2-bb13-881bd9b1ad6e",
+        "name": "Attribut Transfer",
+        "developer": "allplan-gmbh",
+        "descriptions":{
+            "eng":"PythonPart to transfer attributes and values between any kind of ALLPLAN objects",
+            "deu": "PythonPart zur Übertragung von Attributen und Werten zwischen beliebigen ALLPLAN objekten"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "attribute-transfer-public"
+        }    
 ]
