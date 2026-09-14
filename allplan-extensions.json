@@ -219,5 +219,18 @@
             "owner": "AnkeNiedermaier",
             "repo": "dynamic-evaluation-public"
         }
+    },
+    {
+        "uuid": "f2f6f4ae-c318-46d2-bb13-881bd9b1ad6e",
+        "name": "Attribut Transfer",
+        "developer": "allplan-gmbh",
+        "descriptions": {
+            "eng": "PythonPart to transfer attributes between different objects in ALLPLAN",
+            "deu": "PythonPart zum Übertragen von Attributen zwischen verschiedenen Objekten in ALLPLAN"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "attribute-transfer-public"
+        }
     }
 ]
