@@ -232,5 +232,18 @@
             "owner": "AnkeNiedermaier",
             "repo": "attribute-transfer-public"
         }
+    },
+    {
+        "uuid": "d8946278-1712-44db-a693-55f1383b99d1",
+        "name": "BimQ Connection",
+        "developer": "allplan-gmbh",
+        "descriptions": {
+            "eng": "PythonPart to take over information requirements from BimQ",
+            "deu": "PythonPart zur Übernahme von Informationsanforderungen aus BimQ"
+        },
+        "github": {
+            "owner": "AnkeNiedermaier",
+            "repo": "bimq-connection-public"
+        }
     }
 ]
