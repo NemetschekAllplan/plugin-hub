@@ -245,5 +245,18 @@
             "owner": "AnkeNiedermaier",
             "repo": "bimq-connection-public"
         }
+    },    
+    {
+        "uuid": "01662047-92f5-4e65-9a73-3bd06411a67c",
+        "name": "Erico - Lenton Couplers",
+        "developer": "allplan-gmbh",
+        "descriptions": {
+            "eng": "Catalog of Erico-Lenton couplers.",
+            "deu": "Katalog der Erico-Lenton-Muffen."
+        },
+        "github": {
+            "owner": "NemetschekAllplan",
+            "repo": "plugin-coupler-erico-lenton"
+        }
     }
 ]
